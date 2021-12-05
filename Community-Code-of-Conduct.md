@@ -31,10 +31,10 @@ All community leaders are obligated to respect the privacy and security of the r
 
 **Getting help with a violation or incident**<br>
 If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction within the community, ways to report the incident and get support are listed below.
--	Contact the community leader, dharanisrinija@gmail.com
--	Contact the PR expert, nishitha267@gmail.com
+-	Contact the community leader, [Srinija Dharani](dharanisrinija@gmail.com)
+-	Contact the PR expert, [Nishitha Motakatla](nishitha267@gmail.com)
 -	Fill this form: 
-https://forms.gle/JHaguLveQH3RKdfS8
+[Google Form](https://forms.gle/JHaguLveQH3RKdfS8)
 **Enforcement Guidelines**<br>
 1.	Correction: 
 Community Impact: Use of inappropriate language or other behaviour deemed unprofessional or unwelcome in the community. 
@@ -50,4 +50,4 @@ Community Impact: Demonstrating a pattern of violation of community standards, i
 Consequence: A permanent ban from any sort of public interaction within the community.
 
 **Attribution**<br>
-This Code of Conduct is adapted from the Contributor Covenant Code of Conduct of GitHub Campus Experts available at https://www.contributor-covenant.org/version/2/0/code_of_conduct/
+This Code of Conduct is adapted from the Contributor Covenant Code of Conduct of GitHub Campus Experts available [here](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
