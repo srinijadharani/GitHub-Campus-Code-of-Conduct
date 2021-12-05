@@ -35,6 +35,7 @@ If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an
 -	Contact the PR expert, [Nishitha Motakatla](nishitha267@gmail.com)
 -	Fill this form: 
 [Google Form](https://forms.gle/JHaguLveQH3RKdfS8)
+<br>
 **Enforcement Guidelines**<br>
 1.	Correction: 
 Community Impact: Use of inappropriate language or other behaviour deemed unprofessional or unwelcome in the community. 
